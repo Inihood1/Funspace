@@ -9,5 +9,9 @@ Screenshots
   <img src="https://user-images.githubusercontent.com/15949588/52340420-05ffbc00-2a10-11e9-9646-04b79aa36297.png" width="200" />
 </p>
 
-This project is not available on github because its a paid udemy course
+<p float="left">
+ This project is not available on github because its a paid udemy course
+</p>
+<p float="left">
 Udemy link to course  udemy.com/messenger-clone-with-video-and-audio-call
+</p>
