@@ -13,7 +13,7 @@ Screenshots
  This project is not available on github because its a paid udemy course
 </p>
 
-Google play store link (udemy.com/messenger-clone-with-video-and-audio-call)
+[Google play store link!](http://udemy.com/messenger-clone-with-video-and-audio-call)
 
 [Google play store link!](http://play.google.com/store/apps/details?id=com.inihood.funspace)
 
