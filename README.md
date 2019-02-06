@@ -15,7 +15,5 @@ Screenshots
 
 Google play store link (udemy.com/messenger-clone-with-video-and-audio-call)
 
-
-[link to Google!](http://google.com)
-[Google play store link](https://play.google.com/store/apps/details?id=com.inihood.funspace)
+[Google play store link!](http://play.google.com/store/apps/details?id=com.inihood.funspace)
 
